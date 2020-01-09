@@ -8,7 +8,7 @@
                 <div class="card-header">Dashboard</div>
 
 
-               Hello k
+               Hello admins
                 </div>
             </div>
         </div>
